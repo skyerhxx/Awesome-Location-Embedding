@@ -15,6 +15,7 @@
 |Abbreviation|Title|Publication|Paper|Modality|Code & Weights|
 |:---:|---|:---:|:---:|:---:|:---:|
 |Loc2Vec|Loc2Vec:Learning location embeddings with triplet-loss networks|Blog2018||||
+|GPS2Vec|GPS2Vec: Pre-Trained Semantic Embeddings for Worldwide GPS Coordinates|IEEE TMM2021|||
 |GPS2Vec+|Learning Multi-context Aware Location Representations from Large-scale Geotagged Images|ACMMM2021||||
 |Geo-SSL|Geography-Aware Self-Supervised Learning|ICCV2021||||
 ||Pre-Training Time-Aware Location Embeddings from Spatial-Temporal Trajectories|TKDE2022||||
