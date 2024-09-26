@@ -20,6 +20,7 @@
 |Geo-SSL|Geography-Aware Self-Supervised Learning|ICCV2021||||
 ||Pre-Training Time-Aware Location Embeddings from Spatial-Temporal Trajectories|TKDE2022||||
 ||Pre-training Contextual Location Embeddings in Personal Trajectories via Efficient Hierarchical Location Representations|ECML PKDD2023||||
+|MGeo|MGeo: Multi-Modal Geographic Language Model Pre-Training |SIGIR2023||
 |Sphere2Vec|Sphere2Vec: Multi-Scale Representation Learning over a Spherical Surface for Geospatial Predictions|ISPRS2023||||
 |CSP|CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations|ICML2023||||
 |GeoCLIP|GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization|NIPS2023||||
