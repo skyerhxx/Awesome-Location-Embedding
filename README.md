@@ -25,7 +25,6 @@
 |CSP|CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations|ICML2023||||
 |GeoCLIP|GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization|NIPS2023||||
 |SatCLIP|SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery|arxiv2023||||
-|SpatialScene2Vec|SpatialScene2Vec: A self-supervised contrastive representation learning method for spatial scene similarity evaluation |IJAEOG 2024||||
 |LLMGeovec|Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning|arxiv2024||||
 
 ## Related Links
