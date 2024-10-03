@@ -27,6 +27,7 @@
 |CSP|CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations|ICML2023||Satellite image / Geo-tagged image + location||
 |GeoCLIP|GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization|NIPS2023||Geo-tagged image + location||
 |SatCLIP|SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery|arxiv2023||Satellite image + location||
+|GeoLLM|GEOLLM: EXTRACTING GEOSPATIAL KNOWLEDGE FROM LARGE LANGUAGE MODELS|ICLR2024||
 |LLMGeovec|Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning|arxiv2024||location+OSM data (addresses,nearby places)||
 
 ## Related Links
