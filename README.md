@@ -19,7 +19,7 @@
 |Space2Vec|MULTI-SCALE REPRESENTATION LEARNING FOR SPATIAL FEATURE DISTRIBUTIONS USING GRID CELLS|ICLR2020||location
 |GPS2Vec|GPS2Vec: Pre-Trained Semantic Embeddings for Worldwide GPS Coordinates|IEEE TMM2021||Geo-tagged image / Check-ins / Tweets + location|
 |GPS2Vec+|Learning Multi-context Aware Location Representations from Large-scale Geotagged Images|ACMMM2021||Geo-tagged image + location||
-|Geo-SSL|Geography-Aware Self-Supervised Learning|ICCV2021||Satellite image + location||
+|Geo-SSL|Geography-Aware Self-Supervised Learning|ICCV2021||Satellite image + location (as supervision signal)||
 ||Pre-Training Time-Aware Location Embeddings from Spatial-Temporal Trajectories|TKDE2022||||
 ||Pre-training Contextual Location Embeddings in Personal Trajectories via Efficient Hierarchical Location Representations|ECML PKDD2023||||
 |MGeo|MGeo: Multi-Modal Geographic Language Model Pre-Training |SIGIR2023||
