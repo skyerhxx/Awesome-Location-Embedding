@@ -14,7 +14,9 @@
 ## Location Embedding
 |Abbreviation|Title|Publication|Paper|Modality|Code & Weights|
 |:---:|---|:---:|:---:|:---:|:---:|
+|Place2Vec|From ITDL to Place2Vec – Reasoning About Place Type Similarity and Relatedness by Learning Embeddings From Augmented Spatial Contexts|ACM SIGSPATIAL 2017
 |Loc2Vec|Loc2Vec:Learning location embeddings with triplet-loss networks|Blog2018||location||
+|Space2Vec|MULTI-SCALE REPRESENTATION LEARNING FOR SPATIAL FEATURE DISTRIBUTIONS USING GRID CELLS|ICLR2020||
 |GPS2Vec|GPS2Vec: Pre-Trained Semantic Embeddings for Worldwide GPS Coordinates|IEEE TMM2021||Geo-tagged image / Check-ins / Tweets + location|
 |GPS2Vec+|Learning Multi-context Aware Location Representations from Large-scale Geotagged Images|ACMMM2021||Geo-tagged image + location||
 |Geo-SSL|Geography-Aware Self-Supervised Learning|ICCV2021||Satellite image + location||
