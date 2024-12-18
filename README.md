@@ -12,8 +12,8 @@
 - **2024.9.19**: Initiate project.
 
 ## Location Embedding
-|Abbreviation|Title|Publication|Paper|Modality|Code & Weights|
-|:---:|---|:---:|:---:|:---:|:---:|
+|Abbreviation|Title|Publication|Paper|Modality (Coverage)|Methodology|Downstram Tasks|Code & Weights|
+|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Place2Vec|From ITDL to Place2Vec – Reasoning About Place Type Similarity and Relatedness by Learning Embeddings From Augmented Spatial Contexts|ACM SIGSPATIAL 2017||POI (location + type)
 |Loc2Vec|Loc2Vec:Learning location embeddings with triplet-loss networks|Blog2018||location||
 |Space2Vec|MULTI-SCALE REPRESENTATION LEARNING FOR SPATIAL FEATURE DISTRIBUTIONS USING GRID CELLS|ICLR2020||location
